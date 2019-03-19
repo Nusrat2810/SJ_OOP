@@ -1,0 +1,285 @@
+body{
+	background-image: url("../image/back10.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+div.c2
+	{
+
+		background-color:RGBA(47,79,79,0.5);
+		/*padding:15px;*/
+		line-height: 10px;
+		margin-top: 15px;
+		height: 55px;
+
+	}
+div.c3
+	{
+
+		background-color:RGBA(47,79,79,0.5);
+		height: 310px;
+  		width: 30%;
+       height: auto;
+  		margin-top: 100px;
+  		margin-right: auto;
+  		margin-left: auto;
+  		padding: 50px;
+  		color: white;
+  		font-size:100%;
+  		
+	}
+input[type=text],input[type=password] {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=submit]{
+  width: 30%;
+  padding: 12px 20px;
+  margin: 20px 0;
+  box-sizing: border-box;
+  background-color: black ;
+  border-radius: 8px;
+  border-color: black;
+  color: white;
+  font-size: 100%
+}
+input[type=submit]:hover{
+	background-color: white ;
+	color: black;
+}
+button[name='lb']{
+
+	width: 7%;
+  	padding: 12px 20px;
+  	box-sizing: border-box;
+  	background-color: black ;
+  	border-radius: 8px;
+  	border-color: black;
+  	color: white;
+  	font-size: 100%;
+  	margin-top: 5px;
+  	margin-right: 10px;
+}
+button[name='lb']:hover{
+	background-color: white ;
+	color: black;
+}
+button[name='lg']{
+
+	width: 8%;
+  	padding: 12px 20px;
+  	box-sizing: border-box;
+  	background-color: black ;
+  	border-radius: 8px;
+  	border-color: black;
+  	color: white;
+  	font-size: 100%;
+  	margin-top: 5px;
+  	margin-right: 10px;
+}
+button[name='lg']:hover{
+	background-color: white ;
+	color: black;
+}	
+div.c4{
+	display: inline-block;
+	color: white;
+	font-size: 100%;
+}
+div.c5{
+	font-size: 100%;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.c6{
+  background-color:RGBA(47,79,79,0.5);
+    height: auto;
+      width: 30%;
+      margin-top: 80px;
+      margin-right: auto;
+      margin-left: auto;
+      padding: 20px;
+      color: white;
+      font-size:100%;
+
+}
+.c6 input[name='qsn']{
+  height: 200px;
+}
+.c6 h1{
+  margin-top: 0%;
+}
+.cmnt{
+  background-color:RGBA(47,79,79,0.5);
+    height: auto;
+      width: 30%;
+      margin-top: 80px;
+      margin-right: auto;
+      margin-left: auto;
+      padding: 20px;
+      color: white;
+      font-size:100%;
+}
+ul.c1{
+  margin-top: 10px;
+}
+ul.c1 li{
+  color: white;
+  display:inline;
+}
+
+
+.danger{
+  color: red;
+}
+button[name='si']{
+
+    width: 9%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    background-color: black ;
+    border-radius: 8px;
+    border-color: black;
+    color: white;
+    font-size: 100%;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+button[name='si']:hover{
+  background-color: white ;
+  color: black;
+} 
+button[name='cm']{
+
+    width: auto;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    background-color: black ;
+    border-radius: 8px;
+    border-color: black;
+    color: white;
+    font-size: 100%;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+button[name='cm']:hover{
+  background-color: white ;
+  color: black;
+}
+.h{
+
+  background-color:RGBA(47,79,79,0.5); 
+    line-height: 25px;
+    padding-top: 0.005%;
+    margin-top: 15px;
+    height: 50px;
+    width: 100%;
+
+}
+.h ul{
+  list-style: none;
+
+}
+
+
+.h ul li{
+  float: left;
+   position: relative;
+   font-size: 26px;
+  color: white;
+
+  }
+.h ul li a{
+  background-color: black;
+  width: 150px;
+  height: auto;
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 20px 20px 20px 20px;
+}
+
+.h ul ul{
+  display: none;
+  position: absolute;
+
+}
+.h ul li:hover ul{
+  display: block;
+
+}
+.hh :hover{
+  color: black;
+  background-color: white;
+}
+i{
+  margin-right: 25px;
+
+}
+.c7{
+  background-color:RGBA(47,79,79,0.5);
+    height: auto;
+      width: 30%;
+      margin-top: 80px;
+      margin-right: auto;
+      margin-left: auto;
+      padding: 20px;
+      color: white;
+      font-size:100%;
+
+}
+
+button[name='edit'], input[name='edit']{
+
+    width: auto;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    background-color: black ;
+    border-radius: 8px;
+    border-color: black;
+    color: white;
+    font-size: 100%;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+button[name='edit']:hover, input[name='edit']:hover{
+  background-color: white ;
+  color: black;
+}
+
+button[name='dl']{
+
+    width: auto;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    background-color: black ;
+    border-radius: 8px;
+    border-color: black;
+    color: white;
+    font-size: 100%;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+button[name='dl']:hover{
+  background-color: white ;
+  color: black;
+}
+
